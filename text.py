@@ -1,2 +1,2 @@
 echo "Hello Word"
-print "hello word
+print("hello word")
